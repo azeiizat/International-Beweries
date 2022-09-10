@@ -1,5 +1,5 @@
 # International-Breweries
-This is my second attempt on dashboard using excel.Breweries brand we're sold accross anglophone and Francophone territories over three years(2017,2018 and 2019).
+This is my second attempt on dashboard using excel.Breweries brand were sold accross anglophone and Francophone territories over three years(2017,2018 and 2019).
 # Data Source
 The data was given as a capstone project in my data Analysis learning path.It was a data to be analyzed 
 using postgresql.
